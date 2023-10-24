@@ -1,4 +1,4 @@
-# 7-segment-Dispaly-Circuit-Project-Online-Semulation
+# 7-segment-Disply-Circuit-Project-Online-Simulation
 7 sement Virtual Semulation Project , We are using Proteus software
 
 Requirement : 
